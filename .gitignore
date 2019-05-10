@@ -1,0 +1,7 @@
+# IDEs and editors
+*.vscode
+*.swp
+*.idea
+
+# artifacts
+*/out/
